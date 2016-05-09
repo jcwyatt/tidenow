@@ -1,0 +1,13 @@
+Tidescrape Changelog
+
+2.1 26/9/2015
+Added code to create a text file of the daily tide data
+
+5.0 28/9/2015
+Full version with tweeting and email facility
+
+5.5 28/9/2015
+All processes put into functions. Tweet addressed to me directly for now.
+
+6.0 28/9/2015
+Tweet automated!
